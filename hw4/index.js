@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Scepticism was as much the result of knowledge, as knowledge is of scepticism.' 
   'example4':
-      'Many sports leagues make an annual champion by arranging games in a regular sports season.''
+      'Many sports leagues make an annual champion by arranging games in a regular sports season.'
 };
 
 function status(statusText) {
