@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'an awful voice, the tears rolled down the poor child face, and he',
   'example3':
-      'mean to be good to you, you don’t mind very much when they are not' ,
+      'mean to be good to you, you do not mind very much when they are not' ,
   'example4':
       'Fortunately. Of course one has always to accustom oneself to new'
 };
