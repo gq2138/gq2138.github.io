@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'author has ever drawn so many, with so visible and surprising a variety,',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'an awful voice, the tears rolled down the poor child's face, and he',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.' ,
+      'mean to be good to you, you don’t mind very much when they’re not' ,
   'example4':
-      'Many sports leagues make an annual champion by arranging games in a regular sports season.'
+      'Fortunately. Of course one has always to accustom one's self to new'
 };
 
 function status(statusText) {
