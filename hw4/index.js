@@ -10,11 +10,11 @@ const examples = {
   'example1':
       'author has ever drawn so many, with so visible and surprising a variety,',
   'example2':
-      'an awful voice, the tears rolled down the poor child's face, and he',
+      'an awful voice, the tears rolled down the poor child face, and he',
   'example3':
-      'mean to be good to you, you don’t mind very much when they’re not' ,
+      'mean to be good to you, you don’t mind very much when they are not' ,
   'example4':
-      'Fortunately. Of course one has always to accustom one's self to new'
+      'Fortunately. Of course one has always to accustom oneself to new'
 };
 
 function status(statusText) {
